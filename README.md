@@ -2,7 +2,7 @@
 
 These are examples of design patterns for FE projects.
 
-## Design Patters Useds
+## Design Pattern Useds
 
 | Topic   | Reference                                                                           |
 | ------- | ----------------------------------------------------------------------------------- |
