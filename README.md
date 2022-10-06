@@ -4,10 +4,10 @@ These are examples of design patterns for FE projects.
 
 ## Design Patters Useds
 
-| Topic  | Reference                                                                           |
-| ------ | ----------------------------------------------------------------------------------- |
-| Adaper | [Tutorialspoint](https://www.tutorialspoint.com/design_pattern/adapter_pattern.htm) |
-| Factor | [Tutorialspoint](https://www.tutorialspoint.com/design_pattern/factory_pattern.htm) |
+| Topic   | Reference                                                                           |
+| ------- | ----------------------------------------------------------------------------------- |
+| Adaper  | [Tutorialspoint](https://www.tutorialspoint.com/design_pattern/adapter_pattern.htm) |
+| Factory | [Tutorialspoint](https://www.tutorialspoint.com/design_pattern/factory_pattern.htm) |
 
 ---
 
